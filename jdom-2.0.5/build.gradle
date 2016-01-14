@@ -1,0 +1,4 @@
+configurations.create("default")
+artifacts.add("default", file('jdom-2.0.5.jar'))
+dependencies {
+}
